@@ -1,3 +1,23 @@
-h1 {
-    color: green;
+#tes {
+    display: inline-block;
+}
+
+#abc1{
+    display: inline;
+}
+li {
+    display: inline-block;
+}
+
+p { 
+    display: inline-block;
+    width: 480px;
+    height: 400px;
+    overflow: scroll;
+}
+
+footer {
+    background-color: darkgray;
+    width: 960px;
+    height: 100px;
 }
